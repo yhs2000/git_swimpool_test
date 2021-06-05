@@ -40,7 +40,6 @@ public class Discount {
 			discount = 1;
 		}
 	}
-
 	public double getDiscount() {
 		return discount;
 	}
